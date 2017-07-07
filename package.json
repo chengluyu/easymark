@@ -1,0 +1,19 @@
+{
+  "name": "marksouth",
+  "version": "0.0.1",
+  "description": "A markdown parser.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengluyu/marksouth.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "chengluyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengluyu/marksouth/issues"
+  },
+  "homepage": "https://github.com/chengluyu/marksouth#readme"
+}
